@@ -28,7 +28,7 @@ Me gusta contribuir a la comunidad de desarrolladores de diferentes maneras:
 Si deseas ponerse en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: [dragosandreinicolae@gmail.com](mailto:dragosandreinicolae@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](enlace-a-tu-perfil-de-LinkedIn)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-nicolae-6357501bb/)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación! 😄
 
