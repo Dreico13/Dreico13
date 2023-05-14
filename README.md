@@ -18,10 +18,10 @@ Me gusta contribuir a la comunidad de desarrolladores de diferentes maneras:
 ## Contacto
 Si deseas ponerse en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
-- Correo electrónico: [dragosandreinicolae@gmail.com](mailto:tu-correo-electronico@example.com)
+- Correo electrónico: [dragosandreinicolae@gmail.com](mailto:dragosandreinicolae@gmail.com)
 - LinkedIn: [tu perfil de LinkedIn].
 - Twitter: [tu perfil de Twitter].
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación! 😄
 
-[![dragosandreinicolae@gmail.com](https://img.shields.io/badge/Enviar%20correo%20electr%C3%B3nico-%40tu--correo--electr%C3%B3nico%40-red)](mailto:tu-correo-electronico@example.com)
+[![Enviar correo electrónico](https://img.shields.io/badge/Enviar%20correo%20electr%C3%B3nico-%40tu--correo--electr%C3%B3nico%40-red)](mailto:dragosandreinicolae@gmail.com)
