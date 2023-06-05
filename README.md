@@ -25,7 +25,7 @@ Me gusta contribuir a la comunidad de desarrolladores de diferentes maneras:
 - Colaborando en proyectos de código abierto.
 
 ## Contacto
-Si deseas ponerse en contacto conmigo, puedes encontrarme en las siguientes plataformas:
+Si deseas ponerte en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: [dragosandreinicolae@gmail.com](mailto:dragosandreinicolae@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-nicolae-6357501bb/)
